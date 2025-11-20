@@ -115,4 +115,3 @@ If you want, I can also:
 
 Happy counting — let me know which follow-up you'd like.
 # Computer_Vision_Project_Car_Counter_Using_YOLOv8
-# Computer_Vision_Project_Car_Counter_Using_YOLOv8
