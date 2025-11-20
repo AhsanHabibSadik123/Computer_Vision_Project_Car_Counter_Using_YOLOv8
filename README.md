@@ -106,12 +106,4 @@ If you run in a headless environment (no display), the repository's `sort.py` al
 
 This project uses the SORT implementation by Alex Bewley (GPL license noted in `sort.py`) and the Ultralytics YOLOv8 model. Make sure to follow their respective licenses when redistributing the model or code.
 
----
-
-If you want, I can also:
-- add a short CONTRIBUTING.md with commits/push instructions,
-- create a small `requirements.txt` and a minimal `.gitignore` for GitHub, or
-- convert `run_counter.py` into a pip-installable package scaffolding.
-
-Happy counting — let me know which follow-up you'd like.
 # Computer_Vision_Project_Car_Counter_Using_YOLOv8
